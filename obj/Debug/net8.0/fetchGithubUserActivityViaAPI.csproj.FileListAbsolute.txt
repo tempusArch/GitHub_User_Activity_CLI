@@ -1,0 +1,14 @@
+C:\Users\homage\fetchGithubUserActivityViaAPI\bin\Debug\net8.0\fetchGithubUserActivityViaAPI.exe
+C:\Users\homage\fetchGithubUserActivityViaAPI\bin\Debug\net8.0\fetchGithubUserActivityViaAPI.deps.json
+C:\Users\homage\fetchGithubUserActivityViaAPI\bin\Debug\net8.0\fetchGithubUserActivityViaAPI.runtimeconfig.json
+C:\Users\homage\fetchGithubUserActivityViaAPI\bin\Debug\net8.0\fetchGithubUserActivityViaAPI.dll
+C:\Users\homage\fetchGithubUserActivityViaAPI\bin\Debug\net8.0\fetchGithubUserActivityViaAPI.pdb
+C:\Users\homage\fetchGithubUserActivityViaAPI\obj\Debug\net8.0\fetchGithubUserActivityViaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homage\fetchGithubUserActivityViaAPI\obj\Debug\net8.0\fetchGithubUserActivityViaAPI.AssemblyInfoInputs.cache
+C:\Users\homage\fetchGithubUserActivityViaAPI\obj\Debug\net8.0\fetchGithubUserActivityViaAPI.AssemblyInfo.cs
+C:\Users\homage\fetchGithubUserActivityViaAPI\obj\Debug\net8.0\fetchGithubUserActivityViaAPI.csproj.CoreCompileInputs.cache
+C:\Users\homage\fetchGithubUserActivityViaAPI\obj\Debug\net8.0\fetchGithubUserActivityViaAPI.dll
+C:\Users\homage\fetchGithubUserActivityViaAPI\obj\Debug\net8.0\refint\fetchGithubUserActivityViaAPI.dll
+C:\Users\homage\fetchGithubUserActivityViaAPI\obj\Debug\net8.0\fetchGithubUserActivityViaAPI.pdb
+C:\Users\homage\fetchGithubUserActivityViaAPI\obj\Debug\net8.0\fetchGithubUserActivityViaAPI.genruntimeconfig.cache
+C:\Users\homage\fetchGithubUserActivityViaAPI\obj\Debug\net8.0\ref\fetchGithubUserActivityViaAPI.dll
